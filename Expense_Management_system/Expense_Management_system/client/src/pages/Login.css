@@ -1,0 +1,25 @@
+  h1 {
+    text-align: center;
+    color: black;
+    line-height: 2;
+  }
+  
+  input[type=email] {
+    background-color: white;
+    color: black;
+    border: 2px solid black;
+    border-radius: 4px;
+  }
+  input[type=password] {
+    border: 2px solid black;
+    border-radius: 4px;
+  }
+  .label{
+    color:white;
+    padding: 8px;
+  }
+  h2 {
+    text-align: center;
+    color: black;
+    line-height: 2;
+  }

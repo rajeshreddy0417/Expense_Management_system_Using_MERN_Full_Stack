@@ -1,0 +1,105 @@
+.register-page {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /*background-image: linear-gradient(to right, #c6ffdd, #fbd786, #f7797d);*/
+  background-image: url("https://source.unsplash.com/ZVprbBmT8QA/1600x900");
+
+}
+.register-page form {
+  width:420px;
+  /*background: transparent;*/
+  font-weight: bolder;
+  border:2px solid rgba(255,255,255,.2);
+  box-shadow:0 0 10px rgba(0,0,0,.5);
+  color:#0000;
+  border-radius:10px;
+  padding:30px 40px;
+}
+
+.register-form h2 {
+  margin-top: 10px;
+  text-align: center;
+  font-weight: bold;
+  color: #b87333;
+}
+
+.register-form a {
+  color: #b87333 !important;
+}
+
+.register-form a:hover {
+  color: black !important;
+}
+
+.register-form button {
+  background-color: #b87333;
+  color: white;
+}
+
+.register-form input:focus {
+  border: 1px solid #b87333 !important;
+  color: #b87333;
+}
+input[type=Name] {
+  border: 2px solid black;
+  border-radius: 4px;
+}
+.register-form button:hover {
+  background-color: black;
+  color: white;
+}
+
+.login-page {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /*background-image: linear-gradient(to right, #c6ffdd, #fbd786, #f7797d);*/
+  background-image: url("https://source.unsplash.com/ZVprbBmT8QA/1600x900");
+
+}
+.login-page form {
+  width:420px;
+  /*background-image: linear-gradient(to right, #c6ffdd, #fbd786, #f7797d);*/
+  font-weight: bold;
+  border:2px solid rgba(255,255,255,.2);
+  box-shadow:0 0 10px rgba(0,0,0,.5);
+  color:#0000;
+  border-radius:10px;
+  padding:30px 40px;
+}
+
+.login-form h2 {
+  margin-top: 10px;
+  text-align: center;
+  font-weight: bold;
+  color: #b87333;
+}
+
+.login-form a {
+  color: #b87333 !important;
+}
+
+.login-form a:hover {
+  color: black !important;
+}
+
+.login-form button {
+  background-color: #b87333;
+  color: white;
+}
+
+.login-form input:focus {
+  border: 1px solid #b87333 !important;
+  color: #b87333;
+}
+input[type=Name] {
+  border: 2px solid black;
+  border-radius: 4px;
+}
+.login-form button:hover {
+  background-color: black;
+  color: white;
+}
